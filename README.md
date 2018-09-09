@@ -8,4 +8,4 @@ Java Web Service Development – Location-based Event Search and Ticket Recommen
 •Built relational database (MySQL) and NoSQL database (MongoDB) to capture real business data from Ticketmaster API <br />
 •Launched multiple JUnit Tests for RPC (Remote Procedure Call) and JSON <br />
 •Deployed server side to Amazon Web Service EC2 to handle 300 queries per second tested by Apache JMeter <br />
-•Used MongoDB MapReduce to analyze server log and found the peak time of requests to Ticket+ project <br />
+•Used MongoDB MapReduce to analyze server log and detected the peak time of requests to Ticket+ project <br />
